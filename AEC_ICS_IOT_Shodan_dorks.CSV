@@ -1,0 +1,111 @@
+Vendor;Product;Comment;Dorks
+ABB;AC 800M;Controller;ABB AC 800M
+ABB;RTU560;Substation automation product;ABB RTU560
+ABB;RTU500;Remote Terminal Unit;ABB RTU-Helpdesk
+ABB;SREA-01;Ethernet Adapter Module;ABB SREA-01
+ABB;Generic;Multiple Devices;ABB Webmodule
+ACKP;Generic;Multiple Devices, often data center monitoring;AKCP Embedded Web Server
+Adcon Telemetry;A440 Wireless Modem;Base Station;A440 Wireless Modem
+Adcon Telemetry;A850 Telemetry Gateway;Base Station for Adcon Wireless Sensor Networks ;A850 Telemetry Gateway
+Adcon Telemetry;addUPI-OPC Server;.;addUPI Server
+Adcon Telemetry;addVANTAGE Pro 6.X;HMI;addVANTAGE
+Adcon Telemetry;Generic;Generic;title:adcon
+Beck IPC;IPC@CHIP;PLC;IPC@CHIP
+Cimetrics;Eplus - B/IP to B/WS Gateway Firewall;networking products for distributed monitoring and control systems;Cimetrics Eplus Web Server
+Clorius Controls A/S;ISC SCADA;SCADA Software;ISC SCADA Service HTTPserv:00001
+Codesys;WebVisu;.;Webvisu
+CodeSys;WebVisu;.;Visu Remote Login
+Codesys;.;.;port:2455 operating system
+CodeSys;.;.;3S-Smart Software Solutions
+Delta Controls;enteliTOUCH;HMI Building automation;DELTA enteliTOUCH
+Echelon;i.LON SmartServer 2.0;Building Energy Management Solution,  LonWorks/IP Server,  Internet Server;i.LON
+General Electric;CIMPLICITY WebView; CIMPLICITY is HMI/SCADA;CIMPLICITY WebView
+General Electric;Cimplicity; CIMPLICITY is HMI/SCADA;CIMPLICITY-HttpSvr
+General Electric;Proficy;Historian (now named GE Digital);ProficyPortal
+General Electric;.;Service Request Transport Protocol (GE-SRTP);"port:18245,18246 product:""general electric"""
+Generic;.;Modus;port:502
+Generic;.;dnp;port:20000 source address
+Generic;.;BACnet protocol (Data Communication Protocol for Building Automation and Control Networks);port:47808
+Generic;-;EtherNet/IP;port:44818
+Generic;.;The HART Communications Protocol (Highway Addressable Remote Transducer Protocol) is an early implementation of Fieldbus, a digital industrial automation protocol.;port:5094 hart-ip
+Generic;goAhead embedded webserver;.;GoAhead-Webs InitialPage.asp
+Generic;.;.;Modbus Bridge
+Generic;.;.;ModbusGW
+Generic;Generic;Generic;PLC type
+Generic;Generic;Generic;PLC name
+Generic;Industrial Ethernet system, open-source used by various vendoes;openPowerlink, ethernet-powerlink.org devices (PLC HMI ..);Powerlink
+Generic;.;.;SCADA
+Generic;.;.;webSCADA
+HMS;EtherNet/IP / Modbus-TCP Interface ;Generic;HMS AnyBus-S WebServer
+Honeywell EnergyICT;eiPortal;Energy Monitoring Software;eiPortal
+Honeywell EnergyICT;RTU;Remote Data Concentrator;EnergyICT RTU
+KW Software, Inc.;.;ProConOS / PLC;port:20547 PLC
+Lantronix;.;.;lantronix
+Lantronix;.;.;port:30718 lantronix
+Mitsubishi Electric;MELSEC-Q Series;.;port:5006,5007 product:mitsubishi
+Motorola;Moscad;.;Moscad ACE
+Movicon/Progea;.;Web-Client;MovWebClientX
+Moxa;ioLogik Web Server;SCADA Software;ioLogik Web Server
+Moxa;AirWorks AWK-3131-RCC/Railway Remote I/O (ioLogik E12xx)/Cellular Micro RTU Controller (ioLogik W53xx, ioLogik)/VPort 461 Industrial Video Encoder/IA240 Embedded computer/IA241 Embedded computer/OnCell Central Manager/EDS-505A Series/EDS-508A Series/OnCell G3100 Series/Generic;generic;MoxaHttp
+NRG Systems;WindCube;Wind Speed Meter;WindWeb
+Omron;.;FINS, Factory Interface Network Service,;port:9600 response code
+Phoenix Contact GmbH;.;SCADA visualization system;Visu+ Web Client
+Phonix Contact;.;PCWorxs;port:1962 PLC
+Phonix Contact;AXC is a modular small-scale controller for the Axioline I/O system;PCWorxs;PLC Type: AXC
+Phonix Contact;ILC controllers;PCWorxs;PLC Type: ILC
+Quantum;.;Multiple Devices;Quantum BACnet
+Rabbit;Z-World Rabbit;Multiple Devices;title:phasefale Z-World Rabbit
+Rabbit;Generic;Multiple Devices;Z-World Rabbit
+Red Lion Controls;.;Red Lion Controls G306a human machine interface (HMI).;"port:789 product:""Red Lion Controls"""
+Reliance;Reliance 4 SCADA/HMI system;SCADA/HMI  Software;Reliance 4 Control Server
+Rockwell Automation;Generic;Generic;Rockwell Automation
+Rockwell Automation / Allen-Bradley;Generic;Generic;Allen-Bradley
+Rockwell Automation / Allen-Bradley;.;small programmable logic controller solution;Micrologix
+Rockwell Automation / Allen-Bradley;Generic;Generic;Series C Revision
+RTS Services;General;SCADA Software;RTS SCADA Server
+SBC;.;Saia Burgess Control Applet;IMasterSaia5_15_03.jar
+SBC;.;.;Saia PG5 Web Editor
+Schleifenbauer;SPbus gateway;Network Gateway;Schleifenbauer SPbus gateway
+Schneider Electric;CitectSCADA;HMI / SCADA software package;CitectSCADA
+Schneider Electric;Generic;SCADA software;ClearSCADA
+Schneider Electric;PowerLogic EGX;EGX100MG;EGX100MG
+Schneider Electric;Modicon;generic;Modicon
+Schneider Electric;Modicon M340;PLC;Modicon M340
+Schneider Electric;PowerLogic ION7650 Energy and power meter;Energy and power meter;port:23 'Meter ION'
+Schneider Electric;Generic;Energy and power meter;Power Measurement Ltd
+Schneider Electric;PowerLogic Series;Power Monitoring Module;PowerLogic
+Schneider Electric;generic;generic;Schneider Electric
+Schneider Electric;General;Multiple Devices;Schneider-WEB
+Schneider Electric;Modicon;generic;TELEMECANIQUE BMX
+Schneider Electric;Generic;Generic;title:PowerLogic
+Schneider Electric;EGX300;.;Schneider Electric EGX300
+Siemens;Simatic HMI;HMI;HMI XP277
+Siemens;Simatic S7-1200;PLC;Portal0000
+Siemens;Simatic S7-300 (pre-2009 versions);PLC;Portal0000.htm
+Siemens;Simatic S7-200;PLC;S7-200
+Siemens;Simatic S7-300;PLC;S7-300
+Siemens;Scalance generic;SCALANCE X  Industrial Ethernet switches / SCALANCE W  Industrial Wireless LAN / SCALANCE M  Industrial routers / SCALANCE S  Industrial Security;Scalance
+Siemens;Generic;Generic;Copyright: Original Siemens Equipment
+Siemens;Simatic HMI;Generic;Simatic
+Siemens;Simatic HMI;Generic;Welcome to the Windows CE Telnet Service on HMI_Panel
+Siemens;Simatic;.;XP277
+Siemens;PLC ;port can not be deactivated by user;port:102
+Sierra Wireless;.;.;/gc/flash.php
+SoftPLC;.;.;SoftPLC
+Somfy;General;Smart Home Devices;title:Somfy
+SpiderControl;Generic;HMI;SpiderControl
+Stulz GmbH;Generic;Generic;Stulz GmbH Klimatechnik
+Trend;IQ3xcite;Controller ;server: iq3
+Tridium;.;Fox protocol developed as part of Niagara framework;port:1911,4911 product:Niagara
+Tridium;NiagaraAX (ver 1);Software for JACE-2  JACE-403 or JACE-545;Niagara Web Server
+Tridium;NiagaraAX (ver 2);Software for JACE-2  JACE-403 or JACE-545;niagara_audit
+Tridium;NiagaraAX (ver 3);Software for JACE-2  JACE-403 or JACE-545;niagara_audit -login
+Tridium;Niagara Framework;.;Niagara-Platform: QNX
+Tridium;Niagara Framework;.;os.name=s:QNX
+Trihedral;.;VTScada ODBC Server;Server: VTScada
+Wago;Generic;Generic;title:WAGO
+Wind River;VxWorks;SCADA Software;VxWorks
+Wind River;Generic;Generic;WindRiver-WebServer
+Xzeres;442SR;small wind turbine;title:'xzeres wind'
+Generic;.;IEC 60870 part 5 is one of the IEC 60870 set of standards which define systems used for SCADA in electrical engineering and power system automation applications.;port:2404 asdu address
+Carel;pCO sistema;pCOWeb is used to interface pCO Sistema to networks that use the HVAC protocols like BACnet IP  Modbus TCP/IP or SNMP;title:'Carel pCOWeb Home Page'
