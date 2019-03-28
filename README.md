@@ -18,7 +18,7 @@ We hope to find a few people who are willing to help in improving this list. By 
 The list is not perfect. There is no guarantee that a dork only returns the searched for ICS or IoT devices. Use the search results with care and make your own validation. If you find errors or inconsistencies in the list, please remember that we are happy to accept help and input to make this list better.
 
 ## Format
-It is a standard .csv file following this structure:
+It is a standard .csv file (delimiter: ";") following this structure:
 
 Column | Description
 ------------ | -------------
