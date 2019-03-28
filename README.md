@@ -4,12 +4,12 @@
 Austrian Energy CERT (AEC) is the Computer Emergency Response Team (CERT) for the Austrian energy industry. For more information please see: https://www.energy-cert.at/en/
 
 ## What is a ‘dork’
-Usually the term is used in the context of web search engine queries using advanced search operators so find information. In our case it refers to search terms and operators for searching Shodan.io. Simply said, you can paste the dork into	the search field of the Shodan web-interface and should be able to get results.
+Usually the term is used in the context of web search engine queries using advanced search operators to find information. In our case it refers to search terms and operators for searching Shodan.io. Simply said, you can paste the dork into	the search field of the Shodan web-interface and should be able to get results.
 
 ## Motivation
 Why did we publish this dork-list?
 First of all, this information is already public.
-Services connected to the Internet are already sending out their banner to anybody how asks 	for them. There are also already publicly available presentations out there which contains lists of dorks to search for and find ICS and/or IoT devices. What was missing so far, at least to our	knowledge, is a central place to find quality assured dorks in an easy to use format. We are trying to fill the gap with this project.
+Services connected to the Internet are already sending out their banner to anybody how asks for them. There are also already publicly available presentations out there, which contains lists of dorks to search for and find ICS and/or IoT devices. What was missing so far, at least to our	knowledge, is a central place to find quality assured dorks in an easy to use format. We are trying to fill the gap with this project.
 
 A community can move faster together.
 We hope to find a few people who are willing to help in improving this list. By improving we mean correct errors, for example in vendor attribution, make it more complete by adding dorks and additional information or find and improve inefficient/error-prone dorks.
