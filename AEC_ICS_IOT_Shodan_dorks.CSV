@@ -41,12 +41,16 @@ Honeywell EnergyICT;eiPortal;Energy Monitoring Software;eiPortal
 Honeywell EnergyICT;RTU;Remote Data Concentrator;EnergyICT RTU
 KW Software, Inc.;.;ProConOS / PLC;port:20547 PLC
 Lantronix;.;.;lantronix
+Lantronix;.;default telnet port;lantronix port:9999
 Lantronix;.;.;port:30718 lantronix
 Mitsubishi Electric;MELSEC-Q Series;.;port:5006,5007 product:mitsubishi
 Motorola;Moscad;.;Moscad ACE
 Movicon/Progea;.;Web-Client;MovWebClientX
 Moxa;ioLogik Web Server;SCADA Software;ioLogik Web Server
+Moxa;Nport and OnCell devices;.;port:4800 'Moxa Nport'
+Moxa;Nport devices;.;title:'NPort web console'
 Moxa;AirWorks AWK-3131-RCC/Railway Remote I/O (ioLogik E12xx)/Cellular Micro RTU Controller (ioLogik W53xx, ioLogik)/VPort 461 Industrial Video Encoder/IA240 Embedded computer/IA241 Embedded computer/OnCell Central Manager/EDS-505A Series/EDS-508A Series/OnCell G3100 Series/Generic;generic;MoxaHttp
+Moxa;OnCell devices;.;port:4800 'OnCell'
 NRG Systems;WindCube;Wind Speed Meter;WindWeb
 Omron;.;FINS, Factory Interface Network Service,;port:9600 response code
 Phoenix Contact GmbH;.;SCADA visualization system;Visu+ Web Client
@@ -109,3 +113,6 @@ Wind River;Generic;Generic;WindRiver-WebServer
 Xzeres;442SR;small wind turbine;title:'xzeres wind'
 Generic;.;IEC 60870 part 5 is one of the IEC 60870 set of standards which define systems used for SCADA in electrical engineering and power system automation applications.;port:2404 asdu address
 Carel;pCO sistema;pCOWeb is used to interface pCO Sistema to networks that use the HVAC protocols like BACnet IP  Modbus TCP/IP or SNMP;title:'Carel pCOWeb Home Page'
+Heatmiser;.;wireless room thermostats;title:'Heatmiser Wifi Thermostat'
+generic;.;searching tag values requires suitable account;tag:ics
+generic;.;searching tag values requires suitable account;tag:iot
