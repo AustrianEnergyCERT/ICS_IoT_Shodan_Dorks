@@ -116,7 +116,7 @@ Carel;pCO sistema;pCOWeb is used to interface pCO Sistema to networks that use t
 Heatmiser;.;wireless room thermostats;title:'Heatmiser Wifi Thermostat'
 generic;.;searching tag values requires suitable account;tag:ics
 generic;.;searching tag values requires suitable account;tag:iot
-Tridium;BACNet Devices;.;"Local BACnet Device object" "Tridium"
-Carel;BACNet Devices;.;"Carel BACnet Gateway"
-Siemens;BACNET Devices;.;"Siemens BACnet Field Panel"
-generic;BACNet Devices;.;"BACnet Broadcast Management Device"
+Tridium;BACNet Devices;.;"""Local BACnet Device object"" ""Tridium"""
+Carel;BACNet Devices;.;"""Carel BACnet Gateway"""
+Siemens;BACNET Devices;.;"""Siemens BACnet Field Panel"""
+generic;BACNet Devices;.;"""BACnet Broadcast Management Device"""
