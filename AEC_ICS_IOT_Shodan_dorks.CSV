@@ -121,3 +121,4 @@ Carel;BACNet Devices;.;"""Carel BACnet Gateway"""
 Siemens;BACNET Devices;.;"""Siemens BACnet Field Panel"""
 generic;BACNet Devices;.;"""BACnet Broadcast Management Device"""
 Veeder-root;.;Automated Tank Gauge (Vendor most likely Veeder-Root but not guaranteed) results typlically contain a lot of honyepots (conpot);I20100 port:10001
+Generic;.;Screenshots tagged as ICS (will contain some false positives);screenshot.label:ics
