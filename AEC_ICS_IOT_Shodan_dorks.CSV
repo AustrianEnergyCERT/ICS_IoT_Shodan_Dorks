@@ -120,7 +120,7 @@ Tridium;BACNet Devices;.;"""Local BACnet Device object"" ""Tridium"""
 Carel;BACNet Devices;.;"""Carel BACnet Gateway"""
 Siemens;BACNET Devices;.;"""Siemens BACnet Field Panel"""
 generic;BACNet Devices;.;"""BACnet Broadcast Management Device"""
-Veeder-root;.;Automated Tank Gauge (Vendor most likely Veeder-Root but not guaranteed) results typlically contain a lot of honyepots (conpot);I20100 port:10001
+Veeder-root;.;Automated Tank Gauge (Vendor most likely Veeder-Root but not guaranteed) results typically contain a lot of honyepots (conpot);I20100 port:10001
 Generic;.;Screenshots tagged as ICS (will contain some false positives);screenshot.label:ics
 Generic;.;standard port for MQTT + MQTT banner / MQTT -> MQ Telemetry Transport;"port:1883 ""MQTT Connection Code"""
 Generic;.;standard port for MQTT over SSL + MQTT banner / MQTT -> MQ Telemetry Transport / UNTESTED;"port:8883  ""MQTT Connection Code"""
