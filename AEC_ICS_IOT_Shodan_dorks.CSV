@@ -125,3 +125,4 @@ Generic;.;Screenshots tagged as ICS (will contain some false positives);screensh
 Generic;.;standard port for MQTT + MQTT banner / MQTT -> MQ Telemetry Transport;"port:1883 ""MQTT Connection Code"""
 Generic;.;standard port for MQTT over SSL + MQTT banner / MQTT -> MQ Telemetry Transport / UNTESTED;"port:8883  ""MQTT Connection Code"""
 Fronius;Generic;solar energy, most likely inverters;port:1883 Fronius
+Lantronix;.;default telnet port without password enabled  hint: Lantronix includes MAC address in banner which can be used for extra validation ;"""Press Enter for Setup Mode"" port:9999"
